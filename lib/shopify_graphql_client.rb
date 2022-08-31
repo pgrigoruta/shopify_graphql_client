@@ -1,5 +1,6 @@
 require "shopify_graphql_client/version"
 require "graphql/client"
+require "graphql/client/http"
 require "shopify_api"
 
 module ShopifyGraphQLClient
